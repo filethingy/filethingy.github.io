@@ -50,6 +50,5 @@ body{
     color: rgb(94, 94, 94);
 }
 .accordion-button:not(.collapsed){
-    color: white;
-    !important
+    color: white !important;
 }
